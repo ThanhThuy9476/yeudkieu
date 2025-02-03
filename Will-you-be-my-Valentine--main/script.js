@@ -8,7 +8,7 @@ const messages = [
     "Chị sẽ siu siu buồn luôn...",
     "Không phải sẽ mà chắc chắn bùn í...",
     "Hức ủn không hỏi nữa ạ...",
-    "Giỡn á nói có đi mà :((())) ❤️"
+    "Giỡn á nói có đi mà :((())) ❤"
 ];
 
 let messageIndex = 0;
